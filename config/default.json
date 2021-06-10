@@ -1,0 +1,4 @@
+{
+    "db":"mongodb+srv://Safa:gotohell@cluster0.37hql.mongodb.net/db?retryWrites=true&w=majority",
+    "secret":"123"
+}

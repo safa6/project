@@ -1,0 +1,70 @@
+body {
+  /* margin: 0; */
+  /* padding: 0; */
+  /* height: 00vh; */
+  /* overflow: hidden; */
+  font-family: sans-serif;
+  background-color: blueviolet;
+
+  background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+  background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+}
+.SignUp-box {
+  /* top: 50%;
+  left: 50%; */
+  height: 600px;
+  margin: auto;
+  /* transform: translate(-50%, -50%); */
+  width: 400px;
+  background: white;
+  border-radius: 10px;
+}
+h1 {
+  text-align: center;
+  padding-top: 15px;
+  color: rgb(145, 5, 52);
+}
+h2 {
+  text-align: center;
+}
+/* form {
+  width: 30px;
+  margin-left: 20px;
+} */
+form label {
+  color: rgb(145, 5, 52);
+
+  display: flex;
+  margin-top: 20px;
+  font-size: 18px;
+  margin-left: 30px;
+}
+form input {
+  width: 80%;
+  padding: 7px;
+
+  border: 1 px solid grey;
+  border-radius: 6px;
+  outline: none;
+}
+button {
+  width: 80%;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 6px;
+  background-color: indianred;
+  outline: none;
+}
+button :hover {
+  color: blue;
+}
+/* .SignUp-box h1 {
+  text-align: center;
+  padding: 0 0 20px 0;
+  border-bottom: 1px solod silver;
+}
+.SignUp-box form {
+  padding: 0 40 px;
+  box-sizing: border-box;
+} */
